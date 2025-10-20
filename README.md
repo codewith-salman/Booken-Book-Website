@@ -21,7 +21,6 @@ This design focuses on simplicity, readability, and a smooth browsing experience
 It features an organized layout, soft color palette, and user-friendly structure — perfect for **bookstores**, **reading clubs**, or **eBook platforms**.  
 This front-end concept highlights readability and smooth navigation with a professional and aesthetic look.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -33,7 +32,6 @@ This front-end concept highlights readability and smooth navigation with a profe
 - Elegant typography for readability  
 - Modern and lightweight structure  
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -43,7 +41,6 @@ This front-end concept highlights readability and smooth navigation with a profe
 * [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)  
 * [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
